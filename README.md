@@ -10,7 +10,7 @@ One of the possible analytical clients, increasingly popular in the scientific c
 
 Jupyter client-side, matched with rasdaman/WC(P)S server-side, offer a very powerful combination of visualisation and analysis, with easy-to use and share rich notebooks based on highly scalable server endpoints.
 
-
+## Notebooks
 
 ### WCPS Planetserver
 This notebook shows a few examples on how to query spectral data and how to do band math with WCPS queries
