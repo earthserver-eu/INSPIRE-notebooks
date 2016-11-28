@@ -2,7 +2,7 @@
 INSPIRE Confrence notebooks
 
 ## About
-EarthServer-2 Services are based server-side on Rasdaman, client side on WebWorldWind.
+EarthServer-2 Services (www.earthserver.eu) are based server-side on Rasdaman (www.rasdaman.com), client side on WebWorldWind.
 
 The very same backend can be used with several possible clients other than just Web Applications, based on the OGC standards used within EarthServer-2 and backed by the robust endpoints of its multidisciplinary data services.
 
