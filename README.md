@@ -15,3 +15,7 @@ Jupyter client-side, matched with rasdaman/WC(P)S server-side, offer a very powe
 ### WCPS Planetserver
 This notebook shows a few examples on how to query spectral data and how to do band math with WCPS queries
  [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/earthserver-eu/inspire-notebooks) 
+
+
+[![DOI](https://zenodo.org/badge/68695089.svg)](https://zenodo.org/badge/latestdoi/68695089)
+
